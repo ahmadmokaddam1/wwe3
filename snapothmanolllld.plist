@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://down.weapp.com/apps/zb/002/96/76/65/5a7bc2d61a2ab4e162f8a2e5.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>org.tihmstar.h3lix</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+
+				
+ 				<string>
+سناب عثمان
+❤ 🔥🔥 ❤
+أخر تحديث
+❤ 🔥🔥 ❤
+رفع: سمو للإتصالات
+❤ 🔥🔥 ❤
+حسابي في سناب شات👇👇👇
+@sumow9209
+❤ 🔥🔥 ❤
+				</string>
+				
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
